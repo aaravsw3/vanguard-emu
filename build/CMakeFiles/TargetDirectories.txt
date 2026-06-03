@@ -1,0 +1,3 @@
+C:/re/vgc-reversal/emulator/build/CMakeFiles/wraith.dir
+C:/re/vgc-reversal/emulator/build/CMakeFiles/edit_cache.dir
+C:/re/vgc-reversal/emulator/build/CMakeFiles/rebuild_cache.dir

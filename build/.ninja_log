@@ -1,0 +1,25 @@
+# ninja log v7
+10	2519	8012931742560569	CMakeFiles/wraith.dir/src/attestation.cpp.obj	43e2f7294ec1df83
+11	2658	8012931742580573	CMakeFiles/wraith.dir/src/stealth.cpp.obj	1ab2e4ca27ec398f
+6	2898	8012931742525482	CMakeFiles/wraith.dir/src/gateway.cpp.obj	726d65f46fd31f5d
+14	2967	8012931742602022	CMakeFiles/wraith.dir/src/launcher.cpp.obj	76f2802b1e246aed
+2	2974	8012931742484745	CMakeFiles/wraith.dir/src/main.cpp.obj	60d0cb9fc0a9b279
+4	2992	8012931742494741	CMakeFiles/wraith.dir/src/protobuf.cpp.obj	bd05d79d25aaec2b
+5	2995	8012931742504744	CMakeFiles/wraith.dir/src/pipe_server.cpp.obj	2ad0cf121e37efbb
+9	3171	8012931742550576	CMakeFiles/wraith.dir/src/fingerprint.cpp.obj	314537c4ac2ae54e
+8	3354	8012931742530853	CMakeFiles/wraith.dir/src/session.cpp.obj	4be9ffa1b34ca011
+15	3590	8012931742620567	CMakeFiles/wraith.dir/src/puuid.cpp.obj	d9da17db6b01b96
+2582	4245	8012931768282762	CMakeFiles/wraith.dir/src/log.cpp.obj	4e95970f38ea6705
+4245	4423	8012931784909450	wraith.exe	cc754edfe5676fc6
+19	2010	8012934419425412	CMakeFiles/wraith.dir/src/launcher.cpp.obj	76f2802b1e246aed
+6	2012	8012934419294961	CMakeFiles/wraith.dir/src/pipe_server.cpp.obj	2ad0cf121e37efbb
+4	2174	8012934419274413	CMakeFiles/wraith.dir/src/protobuf.cpp.obj	bd05d79d25aaec2b
+3	2684	8012934419254416	CMakeFiles/wraith.dir/src/main.cpp.obj	60d0cb9fc0a9b279
+12	2793	8012934419365407	CMakeFiles/wraith.dir/src/attestation.cpp.obj	43e2f7294ec1df83
+8	3085	8012934419305603	CMakeFiles/wraith.dir/src/gateway.cpp.obj	726d65f46fd31f5d
+15	3239	8012934419405413	CMakeFiles/wraith.dir/src/stealth.cpp.obj	1ab2e4ca27ec398f
+11	3301	8012934419335405	CMakeFiles/wraith.dir/src/fingerprint.cpp.obj	314537c4ac2ae54e
+10	3360	8012934419325408	CMakeFiles/wraith.dir/src/session.cpp.obj	4be9ffa1b34ca011
+21	3950	8012934419435420	CMakeFiles/wraith.dir/src/puuid.cpp.obj	d9da17db6b01b96
+2010	4182	8012934439331351	CMakeFiles/wraith.dir/src/log.cpp.obj	4e95970f38ea6705
+4182	4287	8012934461048475	wraith.exe	cc754edfe5676fc6
